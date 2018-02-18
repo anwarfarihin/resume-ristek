@@ -7,11 +7,11 @@ web:
     shortcut:
         bit.ly/resumemantap
     
-sumber: 
-
+sumber:
     https://www.youtube.com/watch?v=XMykJm_3Njw
     https://www.w3schools.com/ (slideshow, border name)
     https://fontawesome.com/ (icon socmed)
+    unsplash.com(background)
     
 dibuat menggunakan brackets
 
