@@ -11,7 +11,7 @@ html {
     color:antiquewhite;
     padding: 50px;
     height: 100%;
-    width:500px;
+    width:65%;
     margin:0 auto;
     
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
@@ -26,6 +26,10 @@ h1,h3 {
     text-align: center;
 }
 
+h1 {
+    color:springgreen;
+}
+
 #avatar {
     border-radius: 50%;
     display: block;
@@ -33,15 +37,17 @@ h1,h3 {
     margin-right: auto;
 }
 
+
+/* skill bar */
 .container {
   width: 100%;
-  background-color: #ddd;
+  background-color:white;
 }
 
 .skills {
   text-align: right;
   padding-right: 20px;
-  line-height: 40px;
+  line-height: 15px;
   color: white;
 }
 
@@ -50,6 +56,7 @@ h1,h3 {
 .html {width: 70%; background-color: #f44336;}
 .css {width: 45%; background-color: #808080;}
 
+/*socmed*/
 .socmed { 
     font-size: 60px;
     text-align: center; 
