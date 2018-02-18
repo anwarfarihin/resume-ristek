@@ -33,6 +33,22 @@ h1,h3 {
     margin-right: auto;
 }
 
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+
+.python {width: 85%; background-color: #4CAF50;}
+.java {width: 45%; background-color: #2196F3;}
+.html {width: 70%; background-color: #f44336;}
+.css {width: 45%; background-color: #808080;}
 
 .socmed { 
     font-size: 60px;
@@ -40,29 +56,4 @@ h1,h3 {
 }
 .socmed a {
     color:white; 
-}
-
-@keyframes slidy {
-0% { left: 0%; }
-20% { left: 0%; }
-25% { left: -100%; }
-45% { left: -100%; }
-50% { left: -200%; }
-70% { left: -200%; }
-75% { left: -300%; }
-95% { left: -300%; }
-100% { left: -400%; }
-}
-
-body { margin: 0; } 
-div#slider { overflow: hidden; }
-div#slider figure img { width: 20%; float: left; }
-div#slider figure { 
-  position: relative;
-  width: 500%;
-  margin: 0;
-  left: 0;
-  text-align: left;
-  font-size: 0;
-  animation: 30s slidy infinite; 
 }
