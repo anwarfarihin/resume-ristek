@@ -52,10 +52,10 @@ h1 {
   color: white;
 }
 
-.python {width: 70%; background-color: #4CAF50;}
-.java {width: 40%; background-color: #2196F3;}
-.html {width: 60%; background-color: #f44336;}
-.css {width: 40%; background-color: #808080;}
+.python {width: 50%; background-color: #4CAF50;}
+.java {width: 30%; background-color: #2196F3;}
+.html {width: 50%; background-color: #f44336;}
+.css {width: 30%; background-color: #808080;}
 
 /*socmed*/
 .socmed { 
